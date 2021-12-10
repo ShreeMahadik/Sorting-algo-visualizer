@@ -1,1 +1,1 @@
-# hacktober-fest
+# Sorting algo visualizer
